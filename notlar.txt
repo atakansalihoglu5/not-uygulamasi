@@ -3,3 +3,10 @@
 3. pwd: Şu an hangi dizinde bulunulduğunu gösterir.
 4. mkdir: Yeni bir klasör (dizin) oluşturur.
 5. rm: Belirtilen dosya veya klasörü siler.
+
+Hafta 2 Git Komutları:
+1. git init: Yeni bir yerel Git deposu başlatır.
+2. git status: Çalışma dizini ve hazırlık alanının durumunu gösterir.
+3. git add: Değişiklikleri staging area'ya (hazırlık alanına) ekler.
+4. git commit: Hazırlık alanındaki değişiklikleri kalıcı bir sürüm olarak kaydeder.
+5. git log: Projedeki commit geçmişini görüntüler.
